@@ -4,10 +4,15 @@
 \alias{myread}
 \title{My Read}
 \usage{
-myread(x)
+myread(x, dird)
 }
 \arguments{
-\item{"Filename.xls"}{}
+\item{x}{A path.}
+
+\item{dird}{The directory if it needs to be changed.}
+}
+\value{
+
 }
 \description{
 \code{myread} reads the data from my local excel directory for this class.
