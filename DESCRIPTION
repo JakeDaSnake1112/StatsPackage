@@ -11,3 +11,5 @@ LazyData: true
 RoxygenNote: 7.1.2
 Imports:
   readxl
+Depends: 
+    R (>= 2.10)
