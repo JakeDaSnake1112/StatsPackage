@@ -8,7 +8,7 @@
 #' @return
 #' @export
 #'
-#' @usage myci(d)
+#' @usage myci(d, a)
 #' @examples
 #'
 #' myci(c(10,12,13,14,15))

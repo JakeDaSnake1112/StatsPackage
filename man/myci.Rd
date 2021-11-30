@@ -4,7 +4,7 @@
 \alias{myci}
 \title{My Confidence Interval}
 \usage{
-myci(d)
+myci(d, a)
 }
 \arguments{
 \item{d}{Data in the form of a list of numbers.}

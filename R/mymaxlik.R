@@ -1,9 +1,11 @@
 #' My max likelihood
 #'
+#' \code{mymaxlik} creates a maximum likelihood estimator
+#'
 #' @param lfun The function used
 #' @param x The data
 #' @param param Parameter we want to estimate
-#' @param ...
+#' @param ... other values for the plot
 #'
 #' @return
 #' @export

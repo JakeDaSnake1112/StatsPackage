@@ -13,11 +13,11 @@ mymaxlik(lfun, x, param, ...)
 
 \item{param}{Parameter we want to estimate}
 
-\item{...}{}
+\item{...}{other values for the plot}
 }
 \value{
 
 }
 \description{
-My max likelihood
+\code{mymaxlik} creates a maximum likelihood estimator
 }
