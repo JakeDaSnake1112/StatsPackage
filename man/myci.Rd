@@ -4,12 +4,12 @@
 \alias{myci}
 \title{My Confidence Interval}
 \usage{
-myci(d, a)
+myci(d, a = 0.05)
 }
 \arguments{
 \item{d}{Data in the form of a list of numbers.}
 
-\item{a}{(1-a)100% confidence interval.}
+\item{a}{(1-a)100 \% confidence interval.}
 }
 \value{
 

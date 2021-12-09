@@ -11,6 +11,7 @@
 #' @export
 #'
 #' @examples
+#' mypvalue(qt(1-0.05/2,9), n=10, alpha=0.05)
 mypvalue = function(t0,xmax=4,n=20, alpha=0.05){
   #calculate alpha/2
   va=round(pt(-t0,df=n-1),4)

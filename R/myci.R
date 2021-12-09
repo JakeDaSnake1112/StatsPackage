@@ -3,12 +3,12 @@
 #' \code{myci} creates a confidence interval for a population mean given a sample.
 #'
 #' @param d Data in the form of a list of numbers.
-#' @param a (1-a)100% confidence interval.
+#' @param a (1-a)100 \% confidence interval.
 #'
 #' @return
 #' @export
 #'
-#' @usage myci(d, a)
+#'
 #' @examples
 #'
 #' myci(c(10,12,13,14,15))

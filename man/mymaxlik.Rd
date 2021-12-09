@@ -21,3 +21,6 @@ mymaxlik(lfun, x, param, ...)
 \description{
 \code{mymaxlik} creates a maximum likelihood estimator
 }
+\examples{
+mymaxlik(lfun = "rnorm",x=c(1,2,3,4), param=seq(0,1,length=10008))
+}

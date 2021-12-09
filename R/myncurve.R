@@ -9,8 +9,8 @@
 #' @return
 #' @export
 #'
-#' @examples
-#'@usage myncurve(mu, sigma, a)
+#'
+#' @usage myncurve(mu, sigma, a)
 #' @examples
 #' myncurve(3, 1, 4)
 myncurve = function(mu, sigma,a){

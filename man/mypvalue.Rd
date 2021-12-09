@@ -21,3 +21,6 @@ mypvalue(t0, xmax = 4, n = 20, alpha = 0.05)
 \description{
 \code{mypvalue} creates a p-value plot from a sample.
 }
+\examples{
+mypvalue(qt(1-0.05/2,9), n=10, alpha=0.05)
+}

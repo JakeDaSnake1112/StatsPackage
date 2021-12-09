@@ -11,6 +11,7 @@
 #' @export
 #'
 #' @examples
+#' mymaxlik(lfun = "rnorm",x=c(1,2,3,4), param=seq(0,1,length=10008))
 mymaxlik=function(lfun,x,param,...){
   # how many param values are there?
   np=length(param)
